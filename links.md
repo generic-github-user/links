@@ -1,3 +1,10 @@
+A semi-curated list of interesting and/or useful items from my bookmarks[^2];
+adorned with my facetious comments and other information of questionable
+usefulness. Mostly restricted to tools and resources I have personally used.
+
+[^2]: entries also drawn from my GitHub stars, various conversations with
+friends, memory, etc.
+
 ## Programming Languages
 
 ### Bash
