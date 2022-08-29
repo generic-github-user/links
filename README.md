@@ -113,43 +113,46 @@ Software
 
 \[\^1\]: By design
 
-        - https://github.com/kovidgoyal/kitty/issues/391#issuecomment-638320745
+    - https://github.com/kovidgoyal/kitty/issues/391#issuecomment-638320745
     - https://news.ycombinator.com/item?id=13342516
 
 Web
 ---
 
--   javascript - plotting/visualization -
-    [https://github.com/mrdoob/three.js](https://github.com/mrdoob/three.js) -
-    [https://github.com/chartjs/Chart.js](https://github.com/chartjs/Chart.js) -
-    physics -
-    [http://wellcaffeinated.net/PhysicsJS/](http://wellcaffeinated.net/PhysicsJS/) -
-    [https://github.com/jquery/jquery](https://github.com/jquery/jquery) -
-    [https://github.com/ocelot-ide/Stopify](https://github.com/ocelot-ide/Stopify)
--   design - [https://material.io/](https://material.io/)
--   frameworks - [https://getbootstrap.com/](https://getbootstrap.com/)
+-   javascript
+    -   plotting/visualization
+        -   [https://github.com/mrdoob/three.js](https://github.com/mrdoob/three.js)
+        -   [https://github.com/chartjs/Chart.js](https://github.com/chartjs/Chart.js)
+    -   physics
+        -   [http://wellcaffeinated.net/PhysicsJS/](http://wellcaffeinated.net/PhysicsJS/)
+    -   [https://github.com/jquery/jquery](https://github.com/jquery/jquery)
+    -   [https://github.com/ocelot-ide/Stopify](https://github.com/ocelot-ide/Stopify)
+-   design
+    -   [https://material.io/](https://material.io/)
+-   frameworks
+    -   [https://getbootstrap.com/](https://getbootstrap.com/)
 -   [https://getmdl.io/](https://getmdl.io/)
 
 ### Demos
 
--   Chrome Experiments -
-    [https://experiments.withgoogle.com/](https://experiments.withgoogle.com/) -
-    [https://experiments.withgoogle.com/collection/chrome](https://experiments.withgoogle.com/collection/chrome) -
-    [https://jayweeks.com/medusae/](https://jayweeks.com/medusae/) -
-    AI/ML -
-    [https://experiments.withgoogle.com/ai/ai-duet/view/](https://experiments.withgoogle.com/ai/ai-duet/view/) -
-    [https://artsexperiments.withgoogle.com/tsnemap/](https://artsexperiments.withgoogle.com/tsnemap/) -
-    [https://xviniette.github.io/FlappyLearning/](https://xviniette.github.io/FlappyLearning/) -
-    fluid -
-    [https://haxiomic.github.io/GPU-Fluid-Experiments/html5/](https://haxiomic.github.io/GPU-Fluid-Experiments/html5/) -
-    [https://paveldogreat.github.io/WebGL-Fluid-Simulation/](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) -
-    fractals -
-    [https://andrew.wang-hoyer.com/experiments/chaos-game/](https://andrew.wang-hoyer.com/experiments/chaos-game/) -
-    [https://crh.dev/TreeGenerator/TreeD.html](https://crh.dev/TreeGenerator/TreeD.html) -
-    [https://konard.github.io/twittermatrix/messages.html](https://konard.github.io/twittermatrix/messages.html) -
-    [http://cubictime.ru/](http://cubictime.ru/) -
-    [https://www.samcodes.co.uk/project/game-of-life/](https://www.samcodes.co.uk/project/game-of-life/) -
-    [https://labs.fluuu.id/geo/dist/](https://labs.fluuu.id/geo/dist/)
+-   Chrome Experiments
+    -   [https://experiments.withgoogle.com/](https://experiments.withgoogle.com/)
+    -   [https://experiments.withgoogle.com/collection/chrome](https://experiments.withgoogle.com/collection/chrome)
+    -   [https://jayweeks.com/medusae/](https://jayweeks.com/medusae/)
+    -   AI/ML
+        -   [https://experiments.withgoogle.com/ai/ai-duet/view/](https://experiments.withgoogle.com/ai/ai-duet/view/)
+        -   [https://artsexperiments.withgoogle.com/tsnemap/](https://artsexperiments.withgoogle.com/tsnemap/)
+        -   [https://xviniette.github.io/FlappyLearning/](https://xviniette.github.io/FlappyLearning/)
+    -   fluid
+        -   [https://haxiomic.github.io/GPU-Fluid-Experiments/html5/](https://haxiomic.github.io/GPU-Fluid-Experiments/html5/)
+        -   [https://paveldogreat.github.io/WebGL-Fluid-Simulation/](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+    -   fractals
+        -   [https://andrew.wang-hoyer.com/experiments/chaos-game/](https://andrew.wang-hoyer.com/experiments/chaos-game/)
+        -   [https://crh.dev/TreeGenerator/TreeD.html](https://crh.dev/TreeGenerator/TreeD.html)
+    -   [https://konard.github.io/twittermatrix/messages.html](https://konard.github.io/twittermatrix/messages.html)
+    -   [http://cubictime.ru/](http://cubictime.ru/)
+    -   [https://www.samcodes.co.uk/project/game-of-life/](https://www.samcodes.co.uk/project/game-of-life/)
+    -   [https://labs.fluuu.id/geo/dist/](https://labs.fluuu.id/geo/dist/)
 
 ### Productivity
 
@@ -175,33 +178,37 @@ Web
 Games
 -----
 
--   chess - [https://lichess.org/](https://lichess.org/) -
-    [https://www.chessprogramming.org/Main\_Page](https://www.chessprogramming.org/Main_Page) -
-    [https://www.chessgames.com/index.html](https://www.chessgames.com/index.html) -
-    an astoundingly outdated website containing a wealth of quality
-    information - notable games -
-    [https://en.wikipedia.org/wiki/Immortal\_Game](https://en.wikipedia.org/wiki/Immortal_Game) -
-    [https://www.chessgames.com/perl/chessgame?gid=1259009](https://www.chessgames.com/perl/chessgame?gid=1259009) -
-    [https://www.chessgames.com/perl/chessgame?gid=1008361](https://www.chessgames.com/perl/chessgame?gid=1008361) -
-    [https://www.chessgames.com/perl/chessgame?gid=1233404](https://www.chessgames.com/perl/chessgame?gid=1233404) -
-    [https://www.chessgames.com/perl/chessgame?gid=1277959](https://www.chessgames.com/perl/chessgame?gid=1277959) -
-    [https://www.chessgames.com/perl/chessgame?gid=1011478](https://www.chessgames.com/perl/chessgame?gid=1011478)
--   space -
-    [https://www.kerbalspaceprogram.com/](https://www.kerbalspaceprogram.com/) -
-    [https://www.nomanssky.com/](https://www.nomanssky.com/)
--   [https://en.wikipedia.org/wiki/Falling-sand\_game](https://en.wikipedia.org/wiki/Falling-sand_game) -
-    [https://sandspiel.club/](https://sandspiel.club/) -
-    [https://github.com/The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
+-   chess
+    -   [https://lichess.org/](https://lichess.org/)
+    -   [https://www.chessprogramming.org/Main\_Page](https://www.chessprogramming.org/Main_Page)
+    -   [https://www.chessgames.com/index.html](https://www.chessgames.com/index.html) -
+        an astoundingly outdated website containing a wealth of quality
+        information
+    -   notable games
+        -   [https://en.wikipedia.org/wiki/Immortal\_Game](https://en.wikipedia.org/wiki/Immortal_Game)
+        -   [https://www.chessgames.com/perl/chessgame?gid=1259009](https://www.chessgames.com/perl/chessgame?gid=1259009)
+        -   [https://www.chessgames.com/perl/chessgame?gid=1008361](https://www.chessgames.com/perl/chessgame?gid=1008361)
+        -   [https://www.chessgames.com/perl/chessgame?gid=1233404](https://www.chessgames.com/perl/chessgame?gid=1233404)
+        -   [https://www.chessgames.com/perl/chessgame?gid=1277959](https://www.chessgames.com/perl/chessgame?gid=1277959)
+        -   [https://www.chessgames.com/perl/chessgame?gid=1011478](https://www.chessgames.com/perl/chessgame?gid=1011478)
+-   space
+    -   [https://www.kerbalspaceprogram.com/](https://www.kerbalspaceprogram.com/)
+    -   [https://www.nomanssky.com/](https://www.nomanssky.com/)
+-   [https://en.wikipedia.org/wiki/Falling-sand\_game](https://en.wikipedia.org/wiki/Falling-sand_game)
+    -   [https://sandspiel.club/](https://sandspiel.club/)
+    -   [https://github.com/The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
 -   [https://github.com/vicgeralds/vitetris](https://github.com/vicgeralds/vitetris)
--   minecraft - world editors -
-    [https://www.amuletmc.com/](https://www.amuletmc.com/) -
-    [https://www.mcedit.net/](https://www.mcedit.net/) - Common Sense -
-    [https://www.minecraft.net/en-us/article/minecraft-and-nfts](https://www.minecraft.net/en-us/article/minecraft-and-nfts)
--   word games -
-    [https://www.nytimes.com/puzzles/spelling-bee](https://www.nytimes.com/puzzles/spelling-bee) -
-    [https://www.powerlanguage.co.uk/wordle/](https://www.powerlanguage.co.uk/wordle/) -
-    [https://www.nytimes.com/crosswords/game/daily](https://www.nytimes.com/crosswords/game/daily) -
-    [https://www.nytimes.com/crosswords/game/mini](https://www.nytimes.com/crosswords/game/mini)
+-   minecraft
+    -   world editors
+        -   [https://www.amuletmc.com/](https://www.amuletmc.com/)
+        -   [https://www.mcedit.net/](https://www.mcedit.net/)
+    -   Common Sense
+        -   [https://www.minecraft.net/en-us/article/minecraft-and-nfts](https://www.minecraft.net/en-us/article/minecraft-and-nfts)
+-   word games
+    -   [https://www.nytimes.com/puzzles/spelling-bee](https://www.nytimes.com/puzzles/spelling-bee)
+    -   [https://www.powerlanguage.co.uk/wordle/](https://www.powerlanguage.co.uk/wordle/)
+    -   [https://www.nytimes.com/crosswords/game/daily](https://www.nytimes.com/crosswords/game/daily)
+    -   [https://www.nytimes.com/crosswords/game/mini](https://www.nytimes.com/crosswords/game/mini)
 
 Unix
 ----
@@ -212,26 +219,29 @@ Unix
     fast & modern Unix command-line tools; in particular, I recommend
     `lsd`, `fd`, `ripgrep`, `jq`, `tldr`, and `zoxide` (some of these
     have other entries scattered about the place)
--   learning -
-    [https://missing.csail.mit.edu/](https://missing.csail.mit.edu/) -
-    recommended very highly for anyone who uses any Unix shell on a
-    regular basis; comes in both video and text form
+-   learning
+    -   [https://missing.csail.mit.edu/](https://missing.csail.mit.edu/) -
+        recommended very highly for anyone who uses any Unix shell on a
+        regular basis; comes in both video and text form
 -   KDE
     [https://kde.org/plasma-desktop/](https://kde.org/plasma-desktop/) -
     my preferred desktop (I recommend enabling the \"Wobbly Windows\"
-    desktop effect) - themes - sweet mars -
-    [https://github.com/EliverLara/Sweet/tree/mars/kde](https://github.com/EliverLara/Sweet/tree/mars/kde) -
-    [https://store.kde.org/p/1393507](https://store.kde.org/p/1393507) -
-    [https://github.com/vinceliuice/Layan-kde](https://github.com/vinceliuice/Layan-kde)
+    desktop effect)
+    -   themes
+        -   sweet mars
+            -   [https://github.com/EliverLara/Sweet/tree/mars/kde](https://github.com/EliverLara/Sweet/tree/mars/kde)
+            -   [https://store.kde.org/p/1393507](https://store.kde.org/p/1393507)
+        -   [https://github.com/vinceliuice/Layan-kde](https://github.com/vinceliuice/Layan-kde)
 -   [https://www.reddit.com/r/unixporn/](https://www.reddit.com/r/unixporn/)
 
 Cheatsheets
 -----------
 
--   Bash - *some unsolicited advice: if you find yourself nesting more
-    than 3 layers of escaped quotes in bash, it\'s time to use Python*
-    [https://devhints.io/bash](https://devhints.io/bash)
-    [https://github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
+-   Bash
+    -   *some unsolicited advice: if you find yourself nesting more than
+        3 layers of escaped quotes in bash, it\'s time to use Python*
+        [https://devhints.io/bash](https://devhints.io/bash)
+        [https://github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
 -   [https://github.com/tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 -   [https://learnxinyminutes.com/](https://learnxinyminutes.com/) -
     \"Good Enough\" introductions to various programming languages
@@ -345,22 +355,24 @@ Mathematics
 YouTube
 -------
 
--   channels - educational -
-    [https://www.youtube.com/user/Computerphile](https://www.youtube.com/user/Computerphile) -
-    [https://www.youtube.com/c/inanutshell](https://www.youtube.com/c/inanutshell) -
-    [https://www.youtube.com/c/3blue1brown](https://www.youtube.com/c/3blue1brown) -
-    possibly the single best educational YouTube channel; some
-    particularly outstanding samples are listed below - TODO -
-    miscellaneous -
-    [https://www.youtube.com/c/TomScottGo](https://www.youtube.com/c/TomScottGo) -
-    [https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) -
-    one of my all-time favorites (mainly covers machine learning and
-    computer graphics)
--   TED talks -
-    [https://youtu.be/wAIP6fI0NAI](https://youtu.be/wAIP6fI0NAI) -
-    [https://www.youtube.com/watch?v=arj7oStGLkU](https://www.youtube.com/watch?v=arj7oStGLkU) -
-    [https://www.youtube.com/watch?v=XFnGhrC\_3Gs](https://www.youtube.com/watch?v=XFnGhrC_3Gs) -
-    [https://www.youtube.com/watch?v=UyyjU8fzEYU](https://www.youtube.com/watch?v=UyyjU8fzEYU)
+-   channels
+    -   educational
+        -   [https://www.youtube.com/user/Computerphile](https://www.youtube.com/user/Computerphile)
+        -   [https://www.youtube.com/c/inanutshell](https://www.youtube.com/c/inanutshell)
+        -   [https://www.youtube.com/c/3blue1brown](https://www.youtube.com/c/3blue1brown) -
+            possibly the single best educational YouTube channel; some
+            particularly outstanding samples are listed below
+            -   TODO
+    -   miscellaneous
+        -   [https://www.youtube.com/c/TomScottGo](https://www.youtube.com/c/TomScottGo)
+    -   [https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) -
+        one of my all-time favorites (mainly covers machine learning and
+        computer graphics)
+-   TED talks
+    -   [https://youtu.be/wAIP6fI0NAI](https://youtu.be/wAIP6fI0NAI)
+    -   [https://www.youtube.com/watch?v=arj7oStGLkU](https://www.youtube.com/watch?v=arj7oStGLkU)
+    -   [https://www.youtube.com/watch?v=XFnGhrC\_3Gs](https://www.youtube.com/watch?v=XFnGhrC_3Gs)
+    -   [https://www.youtube.com/watch?v=UyyjU8fzEYU](https://www.youtube.com/watch?v=UyyjU8fzEYU)
 -   [https://youtu.be/Fm5Ust7vEhk](https://youtu.be/Fm5Ust7vEhk)
 
 Reading
