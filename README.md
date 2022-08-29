@@ -11,6 +11,11 @@
     -   [Command-line/shell](#command-lineshell)
     -   [IoT and automation](#iot-and-automation)
 -   [Games](#games)
+    -   [Chess](#chess)
+    -   [Space](#space)
+    -   [Falling-sand games](#falling-sand-games)
+    -   [Minecraft](#minecraft)
+    -   [Word games](#word-games)
 -   [Unix](#unix)
 -   [Cheatsheets](#cheatsheets)
 -   [Git](#git)
@@ -24,7 +29,17 @@
     -   [Tools](#tools)
     -   [Miscellanea](#miscellanea)
 -   [Mathematics](#mathematics)
+    -   [Recreational math](#recreational-math)
+    -   [Cellular automata](#cellular-automata)
+    -   [Fractals](#fractals)
+    -   [Number theory](#number-theory)
+    -   [Geometry](#geometry)
+    -   [Calculus](#calculus)
+    -   [Other](#other)
 -   [YouTube](#youtube)
+    -   [Channels](#channels)
+    -   [TED talks](#ted-talks)
+    -   [Other](#other-1)
 -   [Reading](#reading)
 -   [etc](#etc)
     -   [Low-level programming](#low-level-programming)
@@ -33,7 +48,7 @@
     -   [Front-end](#front-end)
     -   [Web scraping](#web-scraping)
     -   [Markdown](#markdown)
-    -   [Other](#other)
+    -   [Other](#other-2)
 
 Software
 --------
@@ -50,27 +65,6 @@ Software
         -   [https://atom.io/packages/atom-beautify](https://atom.io/packages/atom-beautify)
         -   [https://atom.io/packages/minimap](https://atom.io/packages/minimap)
 
--   vim
-
-    -   [https://github.com/neovim/neovim](https://github.com/neovim/neovim) -
-        my main text editor; extremely efficient and fairly simple to
-        augment with hundreds of tools developed by obscenely smart
-        people over the last 30 years
-    -   [https://vimcolorschemes.com/](https://vimcolorschemes.com/) -
-        eye candy to hold you over until the next PR is finished (work
-        in neovim too)
-    -   [https://github.com/junegunn/vim-plug](https://github.com/junegunn/vim-plug) -
-        least painful option for installing and updating vim/neovim
-        plugins
-    -   learning
-        -   \"grok\[king\] vi\"
-            -   [https://irian.to/blogs/mastering-vim-grammar/](https://irian.to/blogs/mastering-vim-grammar/)
-            -   [https://stackoverflow.com/a/1220118](https://stackoverflow.com/a/1220118)
-        -   [https://www.openvim.com/](https://www.openvim.com/)
-        -   [https://vim.rtorr.com/](https://vim.rtorr.com/)
-    -   [https://vimawesome.com/](https://vimawesome.com/)
-    -   [https://github.com/akrawchyk/awesome-vim](https://github.com/akrawchyk/awesome-vim)
-
 -   [https://notepad-plus-plus.org/](https://notepad-plus-plus.org/) -
     for nostalgia (also a reasonable choice for those who are staunchly
     opposed to using a command-line editor but don\'t have unlimited RAM
@@ -79,6 +73,26 @@ Software
 -   [https://code.visualstudio.com/](https://code.visualstudio.com/) - a
     good first approximation if you ever find yourself in the unenviable
     position of having to write Java code
+
+#### Vim
+
+-   [https://github.com/neovim/neovim](https://github.com/neovim/neovim) -
+    my main text editor; extremely efficient and fairly simple to
+    augment with hundreds of tools developed by obscenely smart people
+    over the last 30 years
+-   [https://vimcolorschemes.com/](https://vimcolorschemes.com/) - eye
+    candy to hold you over until the next PR is finished (work in neovim
+    too)
+-   [https://github.com/junegunn/vim-plug](https://github.com/junegunn/vim-plug) -
+    least painful option for installing and updating vim/neovim plugins
+-   learning
+    -   \"grok\[king\] vi\"
+        -   [https://irian.to/blogs/mastering-vim-grammar/](https://irian.to/blogs/mastering-vim-grammar/)
+        -   [https://stackoverflow.com/a/1220118](https://stackoverflow.com/a/1220118)
+    -   [https://www.openvim.com/](https://www.openvim.com/)
+    -   [https://vim.rtorr.com/](https://vim.rtorr.com/)
+-   [https://vimawesome.com/](https://vimawesome.com/)
+-   [https://github.com/akrawchyk/awesome-vim](https://github.com/akrawchyk/awesome-vim)
 
 ### Diagramming
 
@@ -178,37 +192,50 @@ Web
 Games
 -----
 
--   chess
-    -   [https://lichess.org/](https://lichess.org/)
-    -   [https://www.chessprogramming.org/Main\_Page](https://www.chessprogramming.org/Main_Page)
-    -   [https://www.chessgames.com/index.html](https://www.chessgames.com/index.html) -
-        an astoundingly outdated website containing a wealth of quality
-        information
-    -   notable games
-        -   [https://en.wikipedia.org/wiki/Immortal\_Game](https://en.wikipedia.org/wiki/Immortal_Game)
-        -   [https://www.chessgames.com/perl/chessgame?gid=1259009](https://www.chessgames.com/perl/chessgame?gid=1259009)
-        -   [https://www.chessgames.com/perl/chessgame?gid=1008361](https://www.chessgames.com/perl/chessgame?gid=1008361)
-        -   [https://www.chessgames.com/perl/chessgame?gid=1233404](https://www.chessgames.com/perl/chessgame?gid=1233404)
-        -   [https://www.chessgames.com/perl/chessgame?gid=1277959](https://www.chessgames.com/perl/chessgame?gid=1277959)
-        -   [https://www.chessgames.com/perl/chessgame?gid=1011478](https://www.chessgames.com/perl/chessgame?gid=1011478)
--   space
-    -   [https://www.kerbalspaceprogram.com/](https://www.kerbalspaceprogram.com/)
-    -   [https://www.nomanssky.com/](https://www.nomanssky.com/)
+### Chess
+
+-   [https://lichess.org/](https://lichess.org/)
+-   [https://www.chessprogramming.org/Main\_Page](https://www.chessprogramming.org/Main_Page)
+-   [https://www.chessgames.com/index.html](https://www.chessgames.com/index.html) -
+    an astoundingly outdated website containing a wealth of quality
+    information
+-   Notable games
+    -   [https://en.wikipedia.org/wiki/Immortal\_Game](https://en.wikipedia.org/wiki/Immortal_Game)
+    -   [https://www.chessgames.com/perl/chessgame?gid=1259009](https://www.chessgames.com/perl/chessgame?gid=1259009)
+    -   [https://www.chessgames.com/perl/chessgame?gid=1008361](https://www.chessgames.com/perl/chessgame?gid=1008361)
+    -   [https://www.chessgames.com/perl/chessgame?gid=1233404](https://www.chessgames.com/perl/chessgame?gid=1233404)
+    -   [https://www.chessgames.com/perl/chessgame?gid=1277959](https://www.chessgames.com/perl/chessgame?gid=1277959)
+    -   [https://www.chessgames.com/perl/chessgame?gid=1011478](https://www.chessgames.com/perl/chessgame?gid=1011478)
+
+### Space
+
+-   [https://www.kerbalspaceprogram.com/](https://www.kerbalspaceprogram.com/)
+-   [https://www.nomanssky.com/](https://www.nomanssky.com/)
+
+### Falling-sand games
+
 -   [https://en.wikipedia.org/wiki/Falling-sand\_game](https://en.wikipedia.org/wiki/Falling-sand_game)
-    -   [https://sandspiel.club/](https://sandspiel.club/)
-    -   [https://github.com/The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
+
+-   [https://sandspiel.club/](https://sandspiel.club/)
+
+-   [https://github.com/The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
+
 -   [https://github.com/vicgeralds/vitetris](https://github.com/vicgeralds/vitetris)
--   minecraft
-    -   world editors
-        -   [https://www.amuletmc.com/](https://www.amuletmc.com/)
-        -   [https://www.mcedit.net/](https://www.mcedit.net/)
-    -   Common Sense
-        -   [https://www.minecraft.net/en-us/article/minecraft-and-nfts](https://www.minecraft.net/en-us/article/minecraft-and-nfts)
--   word games
-    -   [https://www.nytimes.com/puzzles/spelling-bee](https://www.nytimes.com/puzzles/spelling-bee)
-    -   [https://www.powerlanguage.co.uk/wordle/](https://www.powerlanguage.co.uk/wordle/)
-    -   [https://www.nytimes.com/crosswords/game/daily](https://www.nytimes.com/crosswords/game/daily)
-    -   [https://www.nytimes.com/crosswords/game/mini](https://www.nytimes.com/crosswords/game/mini)
+
+### Minecraft
+
+-   World editors
+    -   [https://www.amuletmc.com/](https://www.amuletmc.com/)
+    -   [https://www.mcedit.net/](https://www.mcedit.net/)
+-   Common Sense
+    -   [https://www.minecraft.net/en-us/article/minecraft-and-nfts](https://www.minecraft.net/en-us/article/minecraft-and-nfts)
+
+### Word games
+
+-   [https://www.nytimes.com/puzzles/spelling-bee](https://www.nytimes.com/puzzles/spelling-bee)
+-   [https://www.powerlanguage.co.uk/wordle/](https://www.powerlanguage.co.uk/wordle/)
+-   [https://www.nytimes.com/crosswords/game/daily](https://www.nytimes.com/crosswords/game/daily)
+-   [https://www.nytimes.com/crosswords/game/mini](https://www.nytimes.com/crosswords/game/mini)
 
 Unix
 ----
@@ -309,45 +336,61 @@ ML
 Mathematics
 -----------
 
--   recreational math
-    -   cellular automata
-        -   [https://en.wikipedia.org/wiki/Cellular\_automaton](https://en.wikipedia.org/wiki/Cellular_automaton)
-        -   [https://en.wikipedia.org/wiki/Langton%27s\_ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
-        -   Conway\'s Game of Life
-            -   [https://conwaylife.com/](https://conwaylife.com/)
-        -   software
-            -   [http://golly.sourceforge.net/](http://golly.sourceforge.net/) -
-                unreasonably efficient desktop GUI program for
-                simulating cellular automata
-        -   [https://en.wikipedia.org/wiki/Von\_Neumann\_universal\_constructor](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor)
-    -   fractals
-        -   mandelbrot
-            -   [https://mandel.gart.nz/](https://mandel.gart.nz/)
-            -   [http://www.mandelbrotgenetics.com/](http://www.mandelbrotgenetics.com/)
-            -   [https://mathworld.wolfram.com/MandelbrotSet.html](https://mathworld.wolfram.com/MandelbrotSet.html)
-            -   [https://web.archive.org/web/20010419182449/http://www.df.lth.se/\~lft/vim/mandelbrot](https://web.archive.org/web/20010419182449/http://www.df.lth.se/~lft/vim/mandelbrot) -
-                Mandelbrot set vim macro
-        -   mandelbulb
-            -   [https://en.wikipedia.org/wiki/Mandelbulb](https://en.wikipedia.org/wiki/Mandelbulb)
-            -   [http://www.bugman123.com/Hypercomplex/\#MandelbulbZ](http://www.bugman123.com/Hypercomplex/#MandelbulbZ)
-            -   [https://www.skytopia.com/project/fractal/mandelbulb.html](https://www.skytopia.com/project/fractal/mandelbulb.html)
-            -   [https://www.mandelbulb.com/](https://www.mandelbulb.com/)
-            -   [https://mandelbulber.com/](https://mandelbulber.com/)
--   number theory
-    -   [https://en.wikipedia.org/wiki/Taxicab\_number](https://en.wikipedia.org/wiki/Taxicab_number)
-    -   [https://en.wikipedia.org/wiki/P-adic\_valuation](https://en.wikipedia.org/wiki/P-adic_valuation)
-    -   [https://www.mersenne.org/](https://www.mersenne.org/),
-        [https://en.wikipedia.org/wiki/Great\_Internet\_Mersenne\_Prime\_Search](https://en.wikipedia.org/wiki/Great_Internet_Mersenne_Prime_Search)
--   geometry
-    -   [https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/](https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
-        Geometric Folding Algorithms: Linkages, Origami, Polyhedra
-        (Prof. Erik Demaine); computational origami. One of my all-time
-        favorite courses, online or otherwise.
-    -   [https://en.wikipedia.org/wiki/Moving\_sofa\_problem](https://en.wikipedia.org/wiki/Moving_sofa_problem)
--   calculus
-    -   cheat sheets
-        -   [https://tutorial.math.lamar.edu/pdf/calculus\_cheat\_sheet\_all.pdf](https://tutorial.math.lamar.edu/pdf/calculus_cheat_sheet_all.pdf)
-        -   [https://www.math.utah.edu/\~macarthu/summer15/math2210/calc3\_cheat\_sheet\_onesheet.pdf](https://www.math.utah.edu/~macarthu/summer15/math2210/calc3_cheat_sheet_onesheet.pdf)
+### Recreational math
+
+### Cellular automata
+
+-   [https://en.wikipedia.org/wiki/Cellular\_automaton](https://en.wikipedia.org/wiki/Cellular_automaton)
+-   [https://en.wikipedia.org/wiki/Langton%27s\_ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
+-   Conway\'s Game of Life
+    -   [https://conwaylife.com/](https://conwaylife.com/)
+-   software
+    -   [http://golly.sourceforge.net/](http://golly.sourceforge.net/) -
+        unreasonably efficient desktop GUI program for simulating
+        cellular automata
+-   [https://en.wikipedia.org/wiki/Von\_Neumann\_universal\_constructor](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor)
+
+### Fractals
+
+#### Mandelbrot
+
+-   [https://mandel.gart.nz/](https://mandel.gart.nz/)
+-   [http://www.mandelbrotgenetics.com/](http://www.mandelbrotgenetics.com/)
+-   [https://mathworld.wolfram.com/MandelbrotSet.html](https://mathworld.wolfram.com/MandelbrotSet.html)
+-   [https://web.archive.org/web/20010419182449/http://www.df.lth.se/\~lft/vim/mandelbrot](https://web.archive.org/web/20010419182449/http://www.df.lth.se/~lft/vim/mandelbrot) -
+    Mandelbrot set vim macro
+
+#### Mandelbulb
+
+-   [https://en.wikipedia.org/wiki/Mandelbulb](https://en.wikipedia.org/wiki/Mandelbulb)
+-   [http://www.bugman123.com/Hypercomplex/\#MandelbulbZ](http://www.bugman123.com/Hypercomplex/#MandelbulbZ)
+-   [https://www.skytopia.com/project/fractal/mandelbulb.html](https://www.skytopia.com/project/fractal/mandelbulb.html)
+-   [https://www.mandelbulb.com/](https://www.mandelbulb.com/)
+-   [https://mandelbulber.com/](https://mandelbulber.com/)
+
+### Number theory
+
+-   [https://en.wikipedia.org/wiki/Taxicab\_number](https://en.wikipedia.org/wiki/Taxicab_number)
+-   [https://en.wikipedia.org/wiki/P-adic\_valuation](https://en.wikipedia.org/wiki/P-adic_valuation)
+-   [https://www.mersenne.org/](https://www.mersenne.org/),
+    [https://en.wikipedia.org/wiki/Great\_Internet\_Mersenne\_Prime\_Search](https://en.wikipedia.org/wiki/Great_Internet_Mersenne_Prime_Search)
+
+### Geometry
+
+-   [https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/](https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
+    Geometric Folding Algorithms: Linkages, Origami, Polyhedra (Prof.
+    Erik Demaine); computational origami. One of my all-time favorite
+    courses, online or otherwise.
+-   [https://en.wikipedia.org/wiki/Moving\_sofa\_problem](https://en.wikipedia.org/wiki/Moving_sofa_problem)
+
+### Calculus
+
+-   cheat sheets
+    -   [https://tutorial.math.lamar.edu/pdf/calculus\_cheat\_sheet\_all.pdf](https://tutorial.math.lamar.edu/pdf/calculus_cheat_sheet_all.pdf)
+    -   [https://www.math.utah.edu/\~macarthu/summer15/math2210/calc3\_cheat\_sheet\_onesheet.pdf](https://www.math.utah.edu/~macarthu/summer15/math2210/calc3_cheat_sheet_onesheet.pdf)
+
+### Other
+
 -   [https://oeis.org/](https://oeis.org/)
 -   [https://learnxinyminutes.com/docs/set-theory/](https://learnxinyminutes.com/docs/set-theory/) -
     very basic set theory introduction
@@ -355,24 +398,30 @@ Mathematics
 YouTube
 -------
 
--   channels
-    -   educational
-        -   [https://www.youtube.com/user/Computerphile](https://www.youtube.com/user/Computerphile)
-        -   [https://www.youtube.com/c/inanutshell](https://www.youtube.com/c/inanutshell)
-        -   [https://www.youtube.com/c/3blue1brown](https://www.youtube.com/c/3blue1brown) -
-            possibly the single best educational YouTube channel; some
-            particularly outstanding samples are listed below
-            -   TODO
-    -   miscellaneous
-        -   [https://www.youtube.com/c/TomScottGo](https://www.youtube.com/c/TomScottGo)
-    -   [https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) -
-        one of my all-time favorites (mainly covers machine learning and
-        computer graphics)
--   TED talks
-    -   [https://youtu.be/wAIP6fI0NAI](https://youtu.be/wAIP6fI0NAI)
-    -   [https://www.youtube.com/watch?v=arj7oStGLkU](https://www.youtube.com/watch?v=arj7oStGLkU)
-    -   [https://www.youtube.com/watch?v=XFnGhrC\_3Gs](https://www.youtube.com/watch?v=XFnGhrC_3Gs)
-    -   [https://www.youtube.com/watch?v=UyyjU8fzEYU](https://www.youtube.com/watch?v=UyyjU8fzEYU)
+### Channels
+
+-   educational
+    -   [https://www.youtube.com/user/Computerphile](https://www.youtube.com/user/Computerphile)
+    -   [https://www.youtube.com/c/inanutshell](https://www.youtube.com/c/inanutshell)
+    -   [https://www.youtube.com/c/3blue1brown](https://www.youtube.com/c/3blue1brown) -
+        possibly the single best educational YouTube channel; some
+        particularly outstanding samples are listed below
+        -   TODO
+-   miscellaneous
+    -   [https://www.youtube.com/c/TomScottGo](https://www.youtube.com/c/TomScottGo)
+-   [https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) -
+    one of my all-time favorites (mainly covers machine learning and
+    computer graphics)
+
+### TED talks
+
+-   [https://youtu.be/wAIP6fI0NAI](https://youtu.be/wAIP6fI0NAI)
+-   [https://www.youtube.com/watch?v=arj7oStGLkU](https://www.youtube.com/watch?v=arj7oStGLkU)
+-   [https://www.youtube.com/watch?v=XFnGhrC\_3Gs](https://www.youtube.com/watch?v=XFnGhrC_3Gs)
+-   [https://www.youtube.com/watch?v=UyyjU8fzEYU](https://www.youtube.com/watch?v=UyyjU8fzEYU)
+
+### Other
+
 -   [https://youtu.be/Fm5Ust7vEhk](https://youtu.be/Fm5Ust7vEhk)
 
 Reading
