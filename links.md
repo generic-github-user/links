@@ -90,6 +90,26 @@ works best with larger datasets and batch sizes)
 - https://oeis.org/
 - https://learnxinyminutes.com/docs/set-theory/ - very basic set theory introduction
 
+## reading
+
+- https://chomsky.info/ - various works of the illustrious Noam Chomsky
+(mostly re: politics, though his work in linguistics is also seminal)
+- books
+		- *note: for hopefully obvious reasons, I'm only posting links to books that
+		have been publicly posted by their authors (or with their express
+		permission)*
+		- https://www.historyisaweapon.com/zinnapeopleshistory.html - *A People's
+		History Of The United States* (Howard Zinn)
+- misc. literature
+		- http://shakespeare.mit.edu/hamlet/full.html
+		- https://www.gutenberg.org/files/768/768-h/768-h.htm
+		- https://www.poetryfoundation.org/poems/50465/thanatopsis
+		- "The Yellow Wallpaper" (Charlotte Perkins Gilman)
+- history
+		- https://en.wikipedia.org/wiki/Coal_Wars
+- blogs
+		- https://waitbutwhy.com/
+
 ## etc
 
 Things I haven't read or used yet but consistently hear good reviews of (or
