@@ -158,6 +158,26 @@ multi-device workflow
 		- https://www.nytimes.com/crosswords/game/daily
 		- https://www.nytimes.com/crosswords/game/mini
 
+## Unix
+
+- https://github.com/torvalds/linux - the Linux kernel source
+- https://github.com/ibraheemdev/modern-unix - fast & modern Unix
+command-line tools; in particular, I recommend `lsd`, `fd`, `ripgrep`,
+`jq`, `tldr`, and `zoxide` (some of these have other entries scattered
+about the place)
+- learning
+		- https://missing.csail.mit.edu/ - recommended very highly for anyone who
+		uses any Unix shell on a regular basis; comes in both video and text form
+- KDE
+		https://kde.org/plasma-desktop/ - my preferred desktop (I recommend
+		enabling the "Wobbly Windows" desktop effect)
+		- themes
+				- sweet mars
+						- https://github.com/EliverLara/Sweet/tree/mars/kde
+						- https://store.kde.org/p/1393507
+				- https://github.com/vinceliuice/Layan-kde
+- https://www.reddit.com/r/unixporn/
+
 ## ML
 
 ### Learning
