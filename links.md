@@ -1,6 +1,6 @@
-## software
+## Software
 
-### text editors
+### Text editors
 
 - https://github.com/atom/atom - a decent text editor if you like CSS a little too much, have at least 16GB of RAM, and are scared of vim
     - packages
@@ -33,27 +33,27 @@ editor but don't have unlimited RAM to run Atom or VS Code)
 - https://code.visualstudio.com/ - a good first approximation if you ever
 find yourself in the unenviable position of having to write Java code
 
-### diagramming
+### Diagramming
 
 - https://app.diagrams.net/ (draw.io)
 
-### document conversion
+### Document conversion
 
 - https://github.com/jgm/pandoc
 
-### web browsers
+### Web browsers
 
 - https://vivaldi.com/ - elegant Chromium-based browser with more
 features for power users
 - https://www.mozilla.org/en-US/firefox/
 - https://www.torproject.org/ - for the truly paranoid
     
-### media and animation
+### Media and animation
 
 - https://www.blender.org/ - quite literally the best free software I've ever used
 - https://github.com/3b1b/manim
 
-### terminal emulators
+### Terminal emulators
 
 - https://konsole.kde.org/ - built into KDE and generally pleasant to
 use; plays nicely with [Fira Code](https://github.com/tonsky/FiraCode)
@@ -66,13 +66,13 @@ tmux replacement[^1]
     - https://github.com/kovidgoyal/kitty/issues/391#issuecomment-638320745
     - https://news.ycombinator.com/item?id=13342516
 
-### productivity
+### Productivity
 
 - https://todoist.com/ - one of the better todo managers I've worked with
 (was actually my daily driver for almost two years); great for a
 multi-device workflow
 
-### command-line/shell
+### Command-line/shell
 
 - search
     - https://github.com/BurntSushi/ripgrep
@@ -89,11 +89,11 @@ multi-device workflow
 
 ## ML
 
-### learning
+### Learning
 
 - https://mml-book.github.io/
 
-### datasets
+### Datasets
 
 - https://www.kaggle.com/
 - https://huggingface.co/datasets
@@ -102,7 +102,7 @@ multi-device workflow
 
 - https://github.com/tesseract-ocr/tesseract
 
-### architectures
+### Architectures
 
 - autoencoders
     - https://cs.stanford.edu/people/karpathy/convnetjs/demo/autoencoder.html
@@ -110,7 +110,7 @@ multi-device workflow
     - https://www.jeremyjordan.me/variational-autoencoders/
     - https://kvfrans.com/variational-autoencoders-explained/
 
-### neuroevolution
+### Neuroevolution
 
 - https://en.wikipedia.org/wiki/Neuroevolution - an alright introduction
 to evolutionary methods in ML
@@ -118,14 +118,14 @@ to evolutionary methods in ML
 - https://www.youtube.com/watch?v=qv6UVOQ0F44 - the video that got me
 into machine learning originally
 
-### organizations
+### Organizations
 
 - https://www.uber.com/us/en/uberai/
 - https://openai.com/
 - https://www.deepmind.com/
 - https://opencog.org/
 
-### tools
+### Tools
 
 - https://github.com/josephmisiti/awesome-machine-learning
 - https://colab.research.google.com/ - Jupyter-like notebook environment for
@@ -133,11 +133,11 @@ ML and data science experimentation; has fairly decent hardware available
 for "free" (go to `Runtime > Change runtime type` and set to GPU or TPU;
 works best with larger datasets and batch sizes)
 
-### miscellanea
+### Miscellanea
 
 - https://en.wikipedia.org/wiki/Automated_machine_learning
 
-## mathematics
+## Mathematics
 
 - recreational math
     - cellular automata
@@ -178,7 +178,7 @@ works best with larger datasets and batch sizes)
 - https://oeis.org/
 - https://learnxinyminutes.com/docs/set-theory/ - very basic set theory introduction
 
-## reading
+## Reading
 
 - https://chomsky.info/ - various works of the illustrious Noam Chomsky
 (mostly re: politics, though his work in linguistics is also seminal)
@@ -204,13 +204,13 @@ Things I haven't read or used yet but consistently hear good reviews of (or
 have other reason to think highly of). I do intend to get to most of these
 eventually and will update this list accordingly.
 
-### low-level programming
+### Low-level programming
 
 - https://www.nand2tetris.org/
 - https://craftinginterpreters.com/
 - https://github.com/cfenollosa/os-tutorial
 
-### programming languages
+### Programming languages
 
 - lisp
     - https://buildyourownlisp.com/
@@ -221,26 +221,26 @@ eventually and will update this list accordingly.
 - rust
     - https://github.com/rust-ml/linfa
 
-### research
+### Research
 
 - https://github.com/papers-we-love/papers-we-love
 
-### front-end
+### Front-end
 
 - https://github.com/thedaviddias/Front-End-Checklist
 - https://github.com/pallets/flask
 
-### web scraping
+### Web scraping
 
 - https://github.com/scrapy/scrapy
 - https://secretagent.dev/
 
-### markdown
+### Markdown
 
 - https://github.com/mermaid-js/mermaid
 - https://github.com/adam-p/markdown-here
 
-### other
+### Other
 
 - https://www.nushell.sh/
 - https://en.algorithmica.org/hpc/

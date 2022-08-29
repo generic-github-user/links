@@ -1,37 +1,37 @@
--   [software](#software)
-    -   [text editors](#text-editors)
-    -   [diagramming](#diagramming)
-    -   [document conversion](#document-conversion)
-    -   [web browsers](#web-browsers)
-    -   [media and animation](#media-and-animation)
-    -   [terminal emulators](#terminal-emulators)
-    -   [productivity](#productivity)
-    -   [command-line/shell](#command-lineshell)
+-   [Software](#software)
+    -   [Text editors](#text-editors)
+    -   [Diagramming](#diagramming)
+    -   [Document conversion](#document-conversion)
+    -   [Web browsers](#web-browsers)
+    -   [Media and animation](#media-and-animation)
+    -   [Terminal emulators](#terminal-emulators)
+    -   [Productivity](#productivity)
+    -   [Command-line/shell](#command-lineshell)
     -   [IoT and automation](#iot-and-automation)
 -   [ML](#ml)
-    -   [learning](#learning)
-    -   [datasets](#datasets)
+    -   [Learning](#learning)
+    -   [Datasets](#datasets)
     -   [OCR](#ocr)
-    -   [architectures](#architectures)
-    -   [neuroevolution](#neuroevolution)
-    -   [organizations](#organizations)
-    -   [tools](#tools)
-    -   [miscellanea](#miscellanea)
--   [mathematics](#mathematics)
--   [reading](#reading)
+    -   [Architectures](#architectures)
+    -   [Neuroevolution](#neuroevolution)
+    -   [Organizations](#organizations)
+    -   [Tools](#tools)
+    -   [Miscellanea](#miscellanea)
+-   [Mathematics](#mathematics)
+-   [Reading](#reading)
 -   [etc](#etc)
-    -   [low-level programming](#low-level-programming)
-    -   [programming languages](#programming-languages)
-    -   [research](#research)
-    -   [front-end](#front-end)
-    -   [web scraping](#web-scraping)
-    -   [markdown](#markdown)
-    -   [other](#other)
+    -   [Low-level programming](#low-level-programming)
+    -   [Programming languages](#programming-languages)
+    -   [Research](#research)
+    -   [Front-end](#front-end)
+    -   [Web scraping](#web-scraping)
+    -   [Markdown](#markdown)
+    -   [Other](#other)
 
-software
+Software
 --------
 
-### text editors
+### Text editors
 
 -   [https://github.com/atom/atom](https://github.com/atom/atom) - a
     decent text editor if you like CSS a little too much, have at least
@@ -73,15 +73,15 @@ software
     good first approximation if you ever find yourself in the unenviable
     position of having to write Java code
 
-### diagramming
+### Diagramming
 
 -   [https://app.diagrams.net/](https://app.diagrams.net/) (draw.io)
 
-### document conversion
+### Document conversion
 
 -   [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
 
-### web browsers
+### Web browsers
 
 -   [https://vivaldi.com/](https://vivaldi.com/) - elegant
     Chromium-based browser with more features for power users
@@ -89,13 +89,13 @@ software
 -   [https://www.torproject.org/](https://www.torproject.org/) - for the
     truly paranoid
 
-### media and animation
+### Media and animation
 
 -   [https://www.blender.org/](https://www.blender.org/) - quite
     literally the best free software I\'ve ever used
 -   [https://github.com/3b1b/manim](https://github.com/3b1b/manim)
 
-### terminal emulators
+### Terminal emulators
 
 -   [https://konsole.kde.org/](https://konsole.kde.org/) - built into
     KDE and generally pleasant to use; plays nicely with [Fira
@@ -109,13 +109,13 @@ software
 -
 [https://news.ycombinator.com/item?id=13342516](https://news.ycombinator.com/item?id=13342516)
 
-### productivity
+### Productivity
 
 -   [https://todoist.com/](https://todoist.com/) - one of the better
     todo managers I\'ve worked with (was actually my daily driver for
     almost two years); great for a multi-device workflow
 
-### command-line/shell
+### Command-line/shell
 
 -   search
     -   [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
@@ -133,11 +133,11 @@ software
 ML
 --
 
-### learning
+### Learning
 
 -   [https://mml-book.github.io/](https://mml-book.github.io/)
 
-### datasets
+### Datasets
 
 -   [https://www.kaggle.com/](https://www.kaggle.com/)
 -   [https://huggingface.co/datasets](https://huggingface.co/datasets)
@@ -146,7 +146,7 @@ ML
 
 -   [https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
 
-### architectures
+### Architectures
 
 -   autoencoders
     -   [https://cs.stanford.edu/people/karpathy/convnetjs/demo/autoencoder.html](https://cs.stanford.edu/people/karpathy/convnetjs/demo/autoencoder.html)
@@ -154,7 +154,7 @@ ML
     -   [https://www.jeremyjordan.me/variational-autoencoders/](https://www.jeremyjordan.me/variational-autoencoders/)
     -   [https://kvfrans.com/variational-autoencoders-explained/](https://kvfrans.com/variational-autoencoders-explained/)
 
-### neuroevolution
+### Neuroevolution
 
 -   [https://en.wikipedia.org/wiki/Neuroevolution](https://en.wikipedia.org/wiki/Neuroevolution) -
     an alright introduction to evolutionary methods in ML
@@ -162,14 +162,14 @@ ML
 -   [https://www.youtube.com/watch?v=qv6UVOQ0F44](https://www.youtube.com/watch?v=qv6UVOQ0F44) -
     the video that got me into machine learning originally
 
-### organizations
+### Organizations
 
 -   [https://www.uber.com/us/en/uberai/](https://www.uber.com/us/en/uberai/)
 -   [https://openai.com/](https://openai.com/)
 -   [https://www.deepmind.com/](https://www.deepmind.com/)
 -   [https://opencog.org/](https://opencog.org/)
 
-### tools
+### Tools
 
 -   [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 -   [https://colab.research.google.com/](https://colab.research.google.com/) -
@@ -178,11 +178,11 @@ ML
     (go to `Runtime > Change runtime type` and set to GPU or TPU; works
     best with larger datasets and batch sizes)
 
-### miscellanea
+### Miscellanea
 
 -   [https://en.wikipedia.org/wiki/Automated\_machine\_learning](https://en.wikipedia.org/wiki/Automated_machine_learning)
 
-mathematics
+Mathematics
 -----------
 
 -   recreational math
@@ -228,7 +228,7 @@ mathematics
 -   [https://learnxinyminutes.com/docs/set-theory/](https://learnxinyminutes.com/docs/set-theory/) -
     very basic set theory introduction
 
-reading
+Reading
 -------
 
 -   [https://chomsky.info/](https://chomsky.info/) - various works of
@@ -257,13 +257,13 @@ Things I haven\'t read or used yet but consistently hear good reviews of
 (or have other reason to think highly of). I do intend to get to most of
 these eventually and will update this list accordingly.
 
-### low-level programming
+### Low-level programming
 
 -   [https://www.nand2tetris.org/](https://www.nand2tetris.org/)
 -   [https://craftinginterpreters.com/](https://craftinginterpreters.com/)
 -   [https://github.com/cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
 
-### programming languages
+### Programming languages
 
 -   lisp
     -   [https://buildyourownlisp.com/](https://buildyourownlisp.com/)
@@ -274,26 +274,26 @@ these eventually and will update this list accordingly.
 -   rust
     -   [https://github.com/rust-ml/linfa](https://github.com/rust-ml/linfa)
 
-### research
+### Research
 
 -   [https://github.com/papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
-### front-end
+### Front-end
 
 -   [https://github.com/thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 -   [https://github.com/pallets/flask](https://github.com/pallets/flask)
 
-### web scraping
+### Web scraping
 
 -   [https://github.com/scrapy/scrapy](https://github.com/scrapy/scrapy)
 -   [https://secretagent.dev/](https://secretagent.dev/)
 
-### markdown
+### Markdown
 
 -   [https://github.com/mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
 -   [https://github.com/adam-p/markdown-here](https://github.com/adam-p/markdown-here)
 
-### other
+### Other
 
 -   [https://www.nushell.sh/](https://www.nushell.sh/)
 -   [https://en.algorithmica.org/hpc/](https://en.algorithmica.org/hpc/)
