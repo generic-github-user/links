@@ -1,0 +1,32 @@
+start: ( tree | "\n")+
+tree: (INFO | pair) _NL [_INDENT tree+ _DEDENT]
+_NL: /(\r?\n[\t ]*)+/
+
+comment: "##" ANY*
+wordlike: WORD | (WORD "-" WORD)
+TEXT: (LETTER | " " | PUNCTUATION | DIGIT)+
+ALPHANUMERIC: LETTER | DIGIT
+IDENT: ( ALPHANUMERIC | "_" )
+IDENTIFIER: IDENT+ ("-" IDENT+)*
+
+PUNCTUATION: ";" | "," | "-" | "_" | "/" | "'" | "\""
+		| "." | "{" | "}" | "(" | ")" | "[" | "]" | "~"
+		| "`" | ">" | "?" | "=" | "&" | "*" | "#" | "%"
+ANY: LETTER | PUNCTUATION | DIGIT | " "
+
+aside: "{" | "}"
+infoline: TEXT | URL
+INFO.1: "- " TEXT
+pair.0: TEXT ":" " "? TEXT
+
+DOMAIN: IDENTIFIER ("." IDENTIFIER)+
+URL: "http" ["s"] "://" (LETTER | PUNCTUATION | DIGIT)+
+
+%import common.CNAME -> NAME
+%import common.WS_INLINE
+%declare _INDENT _DEDENT
+//%ignore "\t"+
+
+%import common.LETTER -> LETTER
+%import common.WORD -> WORD
+%import common.DIGIT -> DIGIT
