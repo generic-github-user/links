@@ -192,10 +192,7 @@ ligatures
 TE; includes enough shortcuts out of the box to be a decent standalone
 tmux replacement[^1]
 
-[^1]: By design
-
-    - https://github.com/kovidgoyal/kitty/issues/391#issuecomment-638320745
-    - https://news.ycombinator.com/item?id=13342516
+[^1]: By design; see https://github.com/kovidgoyal/kitty/issues/391#issuecomment-638320745 and https://news.ycombinator.com/item?id=13342516
 
 ## Web
 
