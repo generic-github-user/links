@@ -178,6 +178,23 @@ about the place)
 				- https://github.com/vinceliuice/Layan-kde
 - https://www.reddit.com/r/unixporn/
 
+## Cheatsheets
+
+- Bash
+		- *some unsolicited advice: if you find yourself nesting more than 3
+		layers of escaped quotes in bash, it's time to use Python*
+		https://devhints.io/bash
+		https://github.com/dylanaraps/pure-bash-bible
+- https://github.com/tldr-pages/tldr
+- https://learnxinyminutes.com/ - "Good Enough" introductions to various programming languages
+- https://tmuxcheatsheet.com/
+
+## Git
+
+- https://git-scm.com/
+- https://ndpsoftware.com/git-cheatsheet.html
+- https://git-scm.com/book/en/v2
+
 ## ML
 
 ### Learning
@@ -268,6 +285,27 @@ works best with larger datasets and batch sizes)
         - https://www.math.utah.edu/~macarthu/summer15/math2210/calc3_cheat_sheet_onesheet.pdf
 - https://oeis.org/
 - https://learnxinyminutes.com/docs/set-theory/ - very basic set theory introduction
+
+## YouTube
+
+- channels
+		- educational
+				- https://www.youtube.com/user/Computerphile
+				- https://www.youtube.com/c/inanutshell
+				- https://www.youtube.com/c/3blue1brown - possibly the single best
+				educational YouTube channel; some particularly outstanding samples are
+				listed below
+						- TODO
+		- miscellaneous
+				- https://www.youtube.com/c/TomScottGo
+		- https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg - one of my
+		all-time favorites (mainly covers machine learning and computer graphics)
+- TED talks
+		- https://youtu.be/wAIP6fI0NAI
+		- https://www.youtube.com/watch?v=arj7oStGLkU
+		- https://www.youtube.com/watch?v=XFnGhrC_3Gs
+		- https://www.youtube.com/watch?v=UyyjU8fzEYU
+- https://youtu.be/Fm5Ust7vEhk
 
 ## Reading
 
