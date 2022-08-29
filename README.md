@@ -10,6 +10,7 @@
     -   [Productivity](#productivity)
     -   [Command-line/shell](#command-lineshell)
     -   [IoT and automation](#iot-and-automation)
+-   [Games](#games)
 -   [ML](#ml)
     -   [Learning](#learning)
     -   [Datasets](#datasets)
@@ -166,6 +167,37 @@ Web
 ### IoT and automation
 
 -   [https://www.home-assistant.io/](https://www.home-assistant.io/)
+
+Games
+-----
+
+-   chess - [https://lichess.org/](https://lichess.org/) -
+    [https://www.chessprogramming.org/Main\_Page](https://www.chessprogramming.org/Main_Page) -
+    [https://www.chessgames.com/index.html](https://www.chessgames.com/index.html) -
+    an astoundingly outdated website containing a wealth of quality
+    information - notable games -
+    [https://en.wikipedia.org/wiki/Immortal\_Game](https://en.wikipedia.org/wiki/Immortal_Game) -
+    [https://www.chessgames.com/perl/chessgame?gid=1259009](https://www.chessgames.com/perl/chessgame?gid=1259009) -
+    [https://www.chessgames.com/perl/chessgame?gid=1008361](https://www.chessgames.com/perl/chessgame?gid=1008361) -
+    [https://www.chessgames.com/perl/chessgame?gid=1233404](https://www.chessgames.com/perl/chessgame?gid=1233404) -
+    [https://www.chessgames.com/perl/chessgame?gid=1277959](https://www.chessgames.com/perl/chessgame?gid=1277959) -
+    [https://www.chessgames.com/perl/chessgame?gid=1011478](https://www.chessgames.com/perl/chessgame?gid=1011478)
+-   space -
+    [https://www.kerbalspaceprogram.com/](https://www.kerbalspaceprogram.com/) -
+    [https://www.nomanssky.com/](https://www.nomanssky.com/)
+-   [https://en.wikipedia.org/wiki/Falling-sand\_game](https://en.wikipedia.org/wiki/Falling-sand_game) -
+    [https://sandspiel.club/](https://sandspiel.club/) -
+    [https://github.com/The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
+-   [https://github.com/vicgeralds/vitetris](https://github.com/vicgeralds/vitetris)
+-   minecraft - world editors -
+    [https://www.amuletmc.com/](https://www.amuletmc.com/) -
+    [https://www.mcedit.net/](https://www.mcedit.net/) - Common Sense -
+    [https://www.minecraft.net/en-us/article/minecraft-and-nfts](https://www.minecraft.net/en-us/article/minecraft-and-nfts)
+-   word games -
+    [https://www.nytimes.com/puzzles/spelling-bee](https://www.nytimes.com/puzzles/spelling-bee) -
+    [https://www.powerlanguage.co.uk/wordle/](https://www.powerlanguage.co.uk/wordle/) -
+    [https://www.nytimes.com/crosswords/game/daily](https://www.nytimes.com/crosswords/game/daily) -
+    [https://www.nytimes.com/crosswords/game/mini](https://www.nytimes.com/crosswords/game/mini)
 
 ML
 --
