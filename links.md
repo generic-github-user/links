@@ -48,6 +48,48 @@ works best with larger datasets and batch sizes)
 
 - https://en.wikipedia.org/wiki/Automated_machine_learning
 
+## mathematics
+
+- recreational math
+		- cellular automata
+				- https://en.wikipedia.org/wiki/Cellular_automaton
+				- https://en.wikipedia.org/wiki/Langton%27s_ant
+				- Conway's Game of Life
+						- https://conwaylife.com/
+				- software
+						- http://golly.sourceforge.net/ - unreasonably efficient desktop
+						GUI program for simulating cellular automata
+				- https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor
+		- fractals
+				- mandelbrot
+						- https://mandel.gart.nz/
+						- http://www.mandelbrotgenetics.com/
+						- https://mathworld.wolfram.com/MandelbrotSet.html
+						- https://web.archive.org/web/20010419182449/http://www.df.lth.se/~lft/vim/mandelbrot - Mandelbrot set vim macro
+				- mandelbulb
+						- https://en.wikipedia.org/wiki/Mandelbulb
+						- http://www.bugman123.com/Hypercomplex/#MandelbulbZ
+						- https://www.skytopia.com/project/fractal/mandelbulb.html
+						- https://www.mandelbulb.com/
+						- https://mandelbulber.com/
+- number theory
+		- https://en.wikipedia.org/wiki/Taxicab_number
+		- https://en.wikipedia.org/wiki/P-adic_valuation
+		- https://www.mersenne.org/, https://en.wikipedia.org/wiki/Great_Internet_Mersenne_Prime_Search
+- 
+- geometry
+		- https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/
+		  Geometric Folding Algorithms: Linkages, Origami, Polyhedra (Prof.
+			Erik Demaine); computational origami. One of my all-time favorite
+			courses, online or otherwise.
+		- https://en.wikipedia.org/wiki/Moving_sofa_problem
+- calculus
+		- cheat sheets
+				- https://tutorial.math.lamar.edu/pdf/calculus_cheat_sheet_all.pdf
+				- https://www.math.utah.edu/~macarthu/summer15/math2210/calc3_cheat_sheet_onesheet.pdf
+- https://oeis.org/
+- https://learnxinyminutes.com/docs/set-theory/ - very basic set theory introduction
+
 ## etc
 
 Things I haven't read or used yet but consistently hear good reviews of (or
