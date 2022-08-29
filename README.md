@@ -24,6 +24,7 @@
     -   [Falling-sand games](#falling-sand-games)
     -   [Minecraft](#minecraft)
     -   [Word games](#word-games)
+    -   [Other](#other-2)
 -   [Unix](#unix)
 -   [Cheatsheets](#cheatsheets)
 -   [Git](#git)
@@ -43,11 +44,11 @@
     -   [Number theory](#number-theory)
     -   [Geometry](#geometry)
     -   [Calculus](#calculus)
-    -   [Other](#other-2)
+    -   [Other](#other-3)
 -   [YouTube](#youtube)
     -   [Channels](#channels)
     -   [TED talks](#ted-talks)
-    -   [Other](#other-3)
+    -   [Other](#other-4)
 -   [Reading](#reading)
 -   [etc](#etc)
     -   [Low-level programming](#low-level-programming)
@@ -56,7 +57,7 @@
     -   [Front-end](#front-end)
     -   [Web scraping](#web-scraping)
     -   [Markdown](#markdown)
-    -   [Other](#other-4)
+    -   [Other](#other-5)
 
 A semi-curated list of interesting and/or useful items from my
 bookmarks\[\^2\]; adorned with my facetious comments and other
@@ -91,7 +92,7 @@ Programming Languages
     -   [https://github.com/sger/RustBooks](https://github.com/sger/RustBooks)
     -   [https://rust-lang-nursery.github.io/rust-cookbook/intro.html](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
     -   [https://doc.rust-lang.org/nomicon/](https://doc.rust-lang.org/nomicon/)
--   state of the union
+-   State of the Union
     -   [https://www.arewelearningyet.com/](https://www.arewelearningyet.com/)
     -   [https://arewegameyet.rs/](https://arewegameyet.rs/)
     -   [https://www.arewewebyet.org/](https://www.arewewebyet.org/)
@@ -102,12 +103,12 @@ Programming Languages
         -   [https://wiki.mozilla.org/Areweyet](https://wiki.mozilla.org/Areweyet)
         -   [http://arewemetayet.com/](http://arewemetayet.com/)
 -   [https://github.com/rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
--   crates
+-   Crates
     -   [https://github.com/rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) -
         to take the edge off NumPy withdrawal symptoms
     -   [https://serde.rs/](https://serde.rs/)
     -   [https://github.com/flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph)
--   miscellanea
+-   Miscellanea
     -   [https://rustacean.net/](https://rustacean.net/)
 
 ### Python
@@ -126,35 +127,34 @@ Programming Languages
 
 #### Libraries
 
--   numerical computing
+-   Numerical computing
     -   [http://numba.pydata.org/](http://numba.pydata.org/) - a good
-        stopgap for speeding up
-    -   procedural-style NumPy code or getting it to cooperate with CUDA
-    -   (prefer Julia or Rust when possible)
--   networking
+        stopgap for speeding up procedural-style NumPy code or getting
+        it to cooperate with CUDA (prefer Julia or Rust when possible)
+-   Networking
     -   [https://github.com/psf/requests](https://github.com/psf/requests)
--   linguistics
+-   Linguistics
     -   [https://www.nltk.org/book/ch02.html](https://www.nltk.org/book/ch02.html) -
         NLTK text corpora;
     -   convenient for data science experiments
--   machine learning
+-   Machine learning
     -   [https://github.com/tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-    -   natural language processing
+    -   Natural language processing
         -   [https://spacy.io/](https://spacy.io/)
     -   OCR
         -   [https://github.com/madmaze/pytesseract](https://github.com/madmaze/pytesseract) -
             Python bindings
         -   for Google\'s Tesseract
--   parsing
+-   Parsing
     -   [https://github.com/lark-parser/lark](https://github.com/lark-parser/lark)
--   other text processing
+-   Other text processing
     -   [https://github.com/seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy)
--   plotting/visualization
+-   Plotting/visualization
     -   [https://seaborn.pydata.org/](https://seaborn.pydata.org/)
     -   [https://datashader.org/](https://datashader.org/)
     -   [https://matplotlib.org/](https://matplotlib.org/)
     -   [https://plotnine.readthedocs.io/en/stable/](https://plotnine.readthedocs.io/en/stable/)
--   mathematics
+-   Mathematics
     -   TODO
 
 #### Other
@@ -165,10 +165,10 @@ Programming Languages
 
 -   [https://lisp-lang.org/](https://lisp-lang.org/)
 -   [https://github.com/CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl)
--   proselytization
+-   Proselytization
     -   [https://stackoverflow.com/a/4621882](https://stackoverflow.com/a/4621882)
     -   [https://wiki.c2.com/?LispMacro](https://wiki.c2.com/?LispMacro)
--   learn
+-   Learn
     -   [https://cliki.net/](https://cliki.net/)
     -   [http://www.lispworks.com/documentation/HyperSpec/Front/index.htm](http://www.lispworks.com/documentation/HyperSpec/Front/index.htm)
         - (regrettably) the most complete documentation for CL; most of
@@ -205,7 +205,7 @@ Software
     decent text editor if you like CSS a little too much, have at least
     16GB of RAM, and are scared of vim
 
-    -   packages
+    -   Packages
         -   [https://atom.io/packages/latex](https://atom.io/packages/latex)
         -   [https://atom.io/packages/atom-clock](https://atom.io/packages/atom-clock)
         -   [https://atom.io/packages/atom-beautify](https://atom.io/packages/atom-beautify)
@@ -231,7 +231,7 @@ Software
     too)
 -   [https://github.com/junegunn/vim-plug](https://github.com/junegunn/vim-plug) -
     least painful option for installing and updating vim/neovim plugins
--   learning
+-   Learning
     -   \"grok\[king\] vi\"
         -   [https://irian.to/blogs/mastering-vim-grammar/](https://irian.to/blogs/mastering-vim-grammar/)
         -   [https://stackoverflow.com/a/1220118](https://stackoverflow.com/a/1220118)
@@ -279,17 +279,17 @@ Software
 Web
 ---
 
--   javascript
-    -   plotting/visualization
+-   JavaScript
+    -   Plotting/visualization
         -   [https://github.com/mrdoob/three.js](https://github.com/mrdoob/three.js)
         -   [https://github.com/chartjs/Chart.js](https://github.com/chartjs/Chart.js)
-    -   physics
+    -   Physics
         -   [http://wellcaffeinated.net/PhysicsJS/](http://wellcaffeinated.net/PhysicsJS/)
     -   [https://github.com/jquery/jquery](https://github.com/jquery/jquery)
     -   [https://github.com/ocelot-ide/Stopify](https://github.com/ocelot-ide/Stopify)
--   design
+-   Design
     -   [https://material.io/](https://material.io/)
--   frameworks
+-   Frameworks
     -   [https://getbootstrap.com/](https://getbootstrap.com/)
 -   [https://getmdl.io/](https://getmdl.io/)
 
@@ -303,10 +303,10 @@ Web
         -   [https://experiments.withgoogle.com/ai/ai-duet/view/](https://experiments.withgoogle.com/ai/ai-duet/view/)
         -   [https://artsexperiments.withgoogle.com/tsnemap/](https://artsexperiments.withgoogle.com/tsnemap/)
         -   [https://xviniette.github.io/FlappyLearning/](https://xviniette.github.io/FlappyLearning/)
-    -   fluid
+    -   Fluid
         -   [https://haxiomic.github.io/GPU-Fluid-Experiments/html5/](https://haxiomic.github.io/GPU-Fluid-Experiments/html5/)
         -   [https://paveldogreat.github.io/WebGL-Fluid-Simulation/](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
-    -   fractals
+    -   Fractals
         -   [https://andrew.wang-hoyer.com/experiments/chaos-game/](https://andrew.wang-hoyer.com/experiments/chaos-game/)
         -   [https://crh.dev/TreeGenerator/TreeD.html](https://crh.dev/TreeGenerator/TreeD.html)
     -   [https://konard.github.io/twittermatrix/messages.html](https://konard.github.io/twittermatrix/messages.html)
@@ -322,12 +322,12 @@ Web
 
 ### Command-line/shell
 
--   search
+-   Search
     -   [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
     -   [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
 -   zsh
     -   [https://ohmyz.sh/](https://ohmyz.sh/)
--   navigation
+-   Navigation
     -   [https://github.com/wting/autojump](https://github.com/wting/autojump)
     -   [https://github.com/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
 
@@ -361,12 +361,8 @@ Games
 ### Falling-sand games
 
 -   [https://en.wikipedia.org/wiki/Falling-sand\_game](https://en.wikipedia.org/wiki/Falling-sand_game)
-
 -   [https://sandspiel.club/](https://sandspiel.club/)
-
 -   [https://github.com/The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
-
--   [https://github.com/vicgeralds/vitetris](https://github.com/vicgeralds/vitetris)
 
 ### Minecraft
 
@@ -382,6 +378,10 @@ Games
 -   [https://www.powerlanguage.co.uk/wordle/](https://www.powerlanguage.co.uk/wordle/)
 -   [https://www.nytimes.com/crosswords/game/daily](https://www.nytimes.com/crosswords/game/daily)
 -   [https://www.nytimes.com/crosswords/game/mini](https://www.nytimes.com/crosswords/game/mini)
+
+### Other
+
+-   [https://github.com/vicgeralds/vitetris](https://github.com/vicgeralds/vitetris)
 
 Unix
 ----
@@ -445,7 +445,7 @@ ML
 
 ### Architectures
 
--   autoencoders
+-   Autoencoders
     -   [https://cs.stanford.edu/people/karpathy/convnetjs/demo/autoencoder.html](https://cs.stanford.edu/people/karpathy/convnetjs/demo/autoencoder.html)
         -   tags: demo
     -   [https://www.jeremyjordan.me/variational-autoencoders/](https://www.jeremyjordan.me/variational-autoencoders/)
@@ -490,7 +490,7 @@ Mathematics
 -   [https://en.wikipedia.org/wiki/Langton%27s\_ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
 -   Conway\'s Game of Life
     -   [https://conwaylife.com/](https://conwaylife.com/)
--   software
+-   Software
     -   [http://golly.sourceforge.net/](http://golly.sourceforge.net/) -
         unreasonably efficient desktop GUI program for simulating
         cellular automata
@@ -531,7 +531,7 @@ Mathematics
 
 ### Calculus
 
--   cheat sheets
+-   Cheat sheets
     -   [https://tutorial.math.lamar.edu/pdf/calculus\_cheat\_sheet\_all.pdf](https://tutorial.math.lamar.edu/pdf/calculus_cheat_sheet_all.pdf)
     -   [https://www.math.utah.edu/\~macarthu/summer15/math2210/calc3\_cheat\_sheet\_onesheet.pdf](https://www.math.utah.edu/~macarthu/summer15/math2210/calc3_cheat_sheet_onesheet.pdf)
 
@@ -546,7 +546,7 @@ YouTube
 
 ### Channels
 
--   educational
+-   Educational
     -   [https://www.youtube.com/user/Computerphile](https://www.youtube.com/user/Computerphile)
     -   [https://www.youtube.com/c/inanutshell](https://www.youtube.com/c/inanutshell)
     -   [https://www.youtube.com/c/3blue1brown](https://www.youtube.com/c/3blue1brown) -
@@ -576,20 +576,20 @@ Reading
 -   [https://chomsky.info/](https://chomsky.info/) - various works of
     the illustrious Noam Chomsky (mostly re: politics, though his work
     in linguistics is also seminal)
--   books
+-   Books
     -   *note: for hopefully obvious reasons, I\'m only posting links to
         books that have been publicly posted by their authors (or with
         their express permission)*
     -   [https://www.historyisaweapon.com/zinnapeopleshistory.html](https://www.historyisaweapon.com/zinnapeopleshistory.html) -
         *A People\'s History Of The United States* (Howard Zinn)
--   misc. literature
+-   Misc. literature
     -   [http://shakespeare.mit.edu/hamlet/full.html](http://shakespeare.mit.edu/hamlet/full.html)
     -   [https://www.gutenberg.org/files/768/768-h/768-h.htm](https://www.gutenberg.org/files/768/768-h/768-h.htm)
     -   [https://www.poetryfoundation.org/poems/50465/thanatopsis](https://www.poetryfoundation.org/poems/50465/thanatopsis)
     -   \"The Yellow Wallpaper\" (Charlotte Perkins Gilman)
--   history
+-   History
     -   [https://en.wikipedia.org/wiki/Coal\_Wars](https://en.wikipedia.org/wiki/Coal_Wars)
--   blogs
+-   Blogs
     -   [https://waitbutwhy.com/](https://waitbutwhy.com/)
 
 etc
@@ -607,13 +607,13 @@ these eventually and will update this list accordingly.
 
 ### Programming languages
 
--   lisp
+-   Lisp
     -   [https://buildyourownlisp.com/](https://buildyourownlisp.com/)
     -   [https://github.com/norvig/paip-lisp](https://github.com/norvig/paip-lisp)
--   python
+-   Python
     -   [https://github.com/google/python-fire](https://github.com/google/python-fire)
     -   [https://github.com/seperman/deepdiff](https://github.com/seperman/deepdiff)
--   rust
+-   Rust
     -   [https://github.com/rust-ml/linfa](https://github.com/rust-ml/linfa)
 
 ### Research
