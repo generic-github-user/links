@@ -1,3 +1,92 @@
+## software
+
+### text editors
+
+- https://github.com/atom/atom - a decent text editor if you like CSS a little too much, have at least 16GB of RAM, and are scared of vim
+		- packages
+				- https://atom.io/packages/latex
+				- https://atom.io/packages/atom-clock
+				- https://atom.io/packages/atom-beautify
+				- https://atom.io/packages/minimap
+
+- vim
+		- https://github.com/neovim/neovim - my main text editor; extremely efficient
+		and fairly simple to augment with hundreds of tools developed by obscenely
+		smart people over the last 30 years
+		- https://vimcolorschemes.com/ - eye candy to hold you over until the
+		next PR is finished (work in neovim too)
+		- https://github.com/junegunn/vim-plug - least painful option for
+		installing and updating vim/neovim plugins
+		- learning
+				- "grok[king] vi"
+						- https://irian.to/blogs/mastering-vim-grammar/
+						- https://stackoverflow.com/a/1220118
+				- https://www.openvim.com/
+				- https://vim.rtorr.com/
+		- https://vimawesome.com/
+		- https://github.com/akrawchyk/awesome-vim
+
+- https://notepad-plus-plus.org/ - for nostalgia (also a reasonable
+choice for those who are staunchly opposed to using a command-line
+editor but don't have unlimited RAM to run Atom or VS Code)
+
+- https://code.visualstudio.com/ - a good first approximation if you ever
+find yourself in the unenviable position of having to write Java code
+
+### diagramming
+
+- https://app.diagrams.net/ (draw.io)
+
+### document conversion
+
+- https://github.com/jgm/pandoc
+
+### web browsers
+
+- https://vivaldi.com/ - elegant Chromium-based browser with more
+features for power users
+- https://www.mozilla.org/en-US/firefox/
+- https://www.torproject.org/ - for the truly paranoid
+		
+### media and animation
+
+- https://www.blender.org/ - quite literally the best free software I've ever used
+- https://github.com/3b1b/manim
+
+### terminal emulators
+
+- https://konsole.kde.org/ - built into KDE and generally pleasant to
+use; plays nicely with [Fira Code](https://github.com/tonsky/FiraCode)
+ligatures
+- https://sw.kovidgoyal.net/kitty/ - a stable and *very* well-optimized
+TE; includes enough shortcuts out of the box to be a decent standalone
+tmux replacement[^1]
+
+[^1]: By design:
+		- https://github.com/kovidgoyal/kitty/issues/391#issuecomment-638320745
+		- https://news.ycombinator.com/item?id=13342516
+
+### productivity
+
+- https://todoist.com/ - one of the better todo managers I've worked with
+(was actually my daily driver for almost two years); great for a
+multi-device workflow
+
+### command-line/shell
+
+- search
+		- https://github.com/BurntSushi/ripgrep
+		- https://github.com/sharkdp/fd
+- zsh
+		- https://ohmyz.sh/
+- navigation
+		- https://github.com/wting/autojump
+		- https://github.com/ajeetdsouza/zoxide
+
+### IoT and automation
+
+- https://www.home-assistant.io/
+
 ## ML
 
 ### learning
