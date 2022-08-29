@@ -62,9 +62,47 @@ ligatures
 TE; includes enough shortcuts out of the box to be a decent standalone
 tmux replacement[^1]
 
-[^1]: By design:
-    - https://github.com/kovidgoyal/kitty/issues/391#issuecomment-638320745
+[^1]: By design
+
+		- https://github.com/kovidgoyal/kitty/issues/391#issuecomment-638320745
     - https://news.ycombinator.com/item?id=13342516
+
+## Web
+
+- javascript
+		- plotting/visualization
+				- https://github.com/mrdoob/three.js
+				- https://github.com/chartjs/Chart.js
+		- physics
+				- http://wellcaffeinated.net/PhysicsJS/
+		- https://github.com/jquery/jquery
+		- https://github.com/ocelot-ide/Stopify
+- design
+		- https://material.io/
+- frameworks
+		- https://getbootstrap.com/
+- https://getmdl.io/
+
+### Demos
+
+- Chrome Experiments
+		- https://experiments.withgoogle.com/
+		- https://experiments.withgoogle.com/collection/chrome
+		- https://jayweeks.com/medusae/
+		- AI/ML
+				- https://experiments.withgoogle.com/ai/ai-duet/view/
+				- https://artsexperiments.withgoogle.com/tsnemap/
+				- https://xviniette.github.io/FlappyLearning/
+		- fluid
+				- https://haxiomic.github.io/GPU-Fluid-Experiments/html5/
+				- https://paveldogreat.github.io/WebGL-Fluid-Simulation/
+		- fractals
+				- https://andrew.wang-hoyer.com/experiments/chaos-game/
+				- https://crh.dev/TreeGenerator/TreeD.html
+		- https://konard.github.io/twittermatrix/messages.html
+		- http://cubictime.ru/
+		- https://www.samcodes.co.uk/project/game-of-life/
+		- https://labs.fluuu.id/geo/dist/
 
 ### Productivity
 

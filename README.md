@@ -5,6 +5,8 @@
     -   [Web browsers](#web-browsers)
     -   [Media and animation](#media-and-animation)
     -   [Terminal emulators](#terminal-emulators)
+-   [Web](#web)
+    -   [Demos](#demos)
     -   [Productivity](#productivity)
     -   [Command-line/shell](#command-lineshell)
     -   [IoT and automation](#iot-and-automation)
@@ -104,10 +106,45 @@ Software
     a stable and *very* well-optimized TE; includes enough shortcuts out
     of the box to be a decent standalone tmux replacement\[\^1\]
 
-\[\^1\]: By design: -
-[https://github.com/kovidgoyal/kitty/issues/391\#issuecomment-638320745](https://github.com/kovidgoyal/kitty/issues/391#issuecomment-638320745)
--
-[https://news.ycombinator.com/item?id=13342516](https://news.ycombinator.com/item?id=13342516)
+\[\^1\]: By design
+
+        - https://github.com/kovidgoyal/kitty/issues/391#issuecomment-638320745
+    - https://news.ycombinator.com/item?id=13342516
+
+Web
+---
+
+-   javascript - plotting/visualization -
+    [https://github.com/mrdoob/three.js](https://github.com/mrdoob/three.js) -
+    [https://github.com/chartjs/Chart.js](https://github.com/chartjs/Chart.js) -
+    physics -
+    [http://wellcaffeinated.net/PhysicsJS/](http://wellcaffeinated.net/PhysicsJS/) -
+    [https://github.com/jquery/jquery](https://github.com/jquery/jquery) -
+    [https://github.com/ocelot-ide/Stopify](https://github.com/ocelot-ide/Stopify)
+-   design - [https://material.io/](https://material.io/)
+-   frameworks - [https://getbootstrap.com/](https://getbootstrap.com/)
+-   [https://getmdl.io/](https://getmdl.io/)
+
+### Demos
+
+-   Chrome Experiments -
+    [https://experiments.withgoogle.com/](https://experiments.withgoogle.com/) -
+    [https://experiments.withgoogle.com/collection/chrome](https://experiments.withgoogle.com/collection/chrome) -
+    [https://jayweeks.com/medusae/](https://jayweeks.com/medusae/) -
+    AI/ML -
+    [https://experiments.withgoogle.com/ai/ai-duet/view/](https://experiments.withgoogle.com/ai/ai-duet/view/) -
+    [https://artsexperiments.withgoogle.com/tsnemap/](https://artsexperiments.withgoogle.com/tsnemap/) -
+    [https://xviniette.github.io/FlappyLearning/](https://xviniette.github.io/FlappyLearning/) -
+    fluid -
+    [https://haxiomic.github.io/GPU-Fluid-Experiments/html5/](https://haxiomic.github.io/GPU-Fluid-Experiments/html5/) -
+    [https://paveldogreat.github.io/WebGL-Fluid-Simulation/](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) -
+    fractals -
+    [https://andrew.wang-hoyer.com/experiments/chaos-game/](https://andrew.wang-hoyer.com/experiments/chaos-game/) -
+    [https://crh.dev/TreeGenerator/TreeD.html](https://crh.dev/TreeGenerator/TreeD.html) -
+    [https://konard.github.io/twittermatrix/messages.html](https://konard.github.io/twittermatrix/messages.html) -
+    [http://cubictime.ru/](http://cubictime.ru/) -
+    [https://www.samcodes.co.uk/project/game-of-life/](https://www.samcodes.co.uk/project/game-of-life/) -
+    [https://labs.fluuu.id/geo/dist/](https://labs.fluuu.id/geo/dist/)
 
 ### Productivity
 
