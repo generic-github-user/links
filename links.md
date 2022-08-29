@@ -1,3 +1,125 @@
+## Programming Languages
+
+### Bash
+    
+- https://mywiki.wooledge.org/BashPitfalls
+
+### Rust
+
+- https://www.rust-lang.org/ - a systems language every serious developer should learn
+- proselytization
+    - https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/
+    - https://github.com/rust-fuzz/trophy-case
+- learning
+    - https://cheats.rs/ - read the Rust book first
+    - https://doc.rust-lang.org/rust-by-example/ - a great companion to
+    The Book (especially for the impatient, myself included)
+    - https://doc.rust-lang.org/book/title-page.html
+    - https://tourofrust.com/index.html
+    - https://github.com/sger/RustBooks
+    - https://rust-lang-nursery.github.io/rust-cookbook/intro.html
+    - https://doc.rust-lang.org/nomicon/
+- state of the union
+    - https://www.arewelearningyet.com/
+    - https://arewegameyet.rs/
+    - https://www.arewewebyet.org/
+    - http://www.areweguiyet.com/
+    - https://isdebianreproducibleyet.com/
+    - dirs
+        - https://github.com/UgurcanAkkok/AreWeRustYet
+        - https://wiki.mozilla.org/Areweyet
+        - http://arewemetayet.com/
+- https://github.com/rust-unofficial/awesome-rust
+- crates
+    - https://github.com/rust-ndarray/ndarray - to take the edge off
+    NumPy withdrawal symptoms
+    - https://serde.rs/
+    - https://github.com/flamegraph-rs/flamegraph
+- miscellanea
+    - https://rustacean.net/
+
+### Python
+
+- https://www.python.org/ - my preferred scripting tool, has a nearly
+boundless ecosystem and handles metaprogramming, HOFs, etc. quite
+gracefully
+
+#### Learning
+
+- https://github.com/TheAlgorithms/Python
+
+#### Contributing
+
+- https://devguide.python.org/
+
+#### Libraries
+
+- numerical computing
+    - http://numba.pydata.org/ - a good stopgap for speeding up
+    - procedural-style NumPy code or getting it to cooperate with CUDA
+    - (prefer Julia or Rust when possible)
+- networking
+    - https://github.com/psf/requests
+- linguistics
+    - https://www.nltk.org/book/ch02.html - NLTK text corpora;
+    - convenient for data science experiments
+- machine learning
+    - https://github.com/tensorflow/tensorflow
+    - natural language processing
+        - https://spacy.io/
+    - OCR
+        - https://github.com/madmaze/pytesseract - Python bindings
+        - for Google's Tesseract
+- parsing
+    - https://github.com/lark-parser/lark
+- other text processing
+    - https://github.com/seatgeek/fuzzywuzzy
+- plotting/visualization
+    - https://seaborn.pydata.org/
+    - https://datashader.org/
+    - https://matplotlib.org/
+    - https://plotnine.readthedocs.io/en/stable/
+- mathematics
+    - TODO
+
+#### Other
+
+- https://stackoverflow.com/questions/1132941/least-astonishment-and-the-mutable-default-argument
+
+### Common Lisp
+
+- https://lisp-lang.org/
+- https://github.com/CodyReichert/awesome-cl
+- proselytization
+    - https://stackoverflow.com/a/4621882
+    - https://wiki.c2.com/?LispMacro
+- learn
+    - https://cliki.net/
+    - http://www.lispworks.com/documentation/HyperSpec/Front/index.htm -
+    (regrettably) the most complete documentation for CL; most of the
+    content has aged reasonably well over the last 20 years
+    - https://quickdocs.org/
+    - https://lispcookbook.github.io/cl-cookbook/
+    - http://www.paulgraham.com/onlisp.html
+
+### Other
+
+- https://github.com/stedolan/jq - a fun and concise functional language for
+wrangling JSON data
+- https://www.gnu.org/software/sed/manual/sed.html - "I love writing regexes
+so much, I wish they were Turing-complete" (joking aside, deft `sed` use
+can adequately replace many white-collar jobs with a 5-line script and it's
+almost definitely worth learning if you work with text at all regularly)
+
+### criticism where criticism is due
+
+- PHP
+    - https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/
+- Go
+    - https://github.com/ksimka/go-is-not-good
+- JS & Node.js
+    - https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5
+
 ## Software
 
 ### Text editors
